@@ -138,12 +138,11 @@ wp = args.With_Without_Path
 
 if ps == "s":
     f = open('Output.txt','w')
-else:
-    print('\n')
 
 datas()
 
-f.close()
+if ps == "s":
+    f.close()
 
 #print(unordereddat)#Gives a dictionary with key = Folder name, values =[file1,file2,file3]
 #Note: Uncomment keepRec above in code frist
