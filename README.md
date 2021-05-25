@@ -10,7 +10,7 @@ You can even modify it if you want a file of a particular type using if conditio
 How to run?(In CLI)
 
 Syntax:
-python3 <path> <store/print> <with full path/not with full path>
+python3 <path_> <store/print> <with full path/not with full path>
 
 path = ./ for current or ../ for previous directory or full path(eg.D:/Python/Projects/)
 Note:While in Full Path you must add '/' at last otherwise it will not work eg.D:/Python/Projects/
