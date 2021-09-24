@@ -21,6 +21,7 @@ You can store or print output as you wish if you want to store it will make a ou
 with full path/not with full path = Pass 'wp' for full path or 'nwp' for only names
 
 Example:
+
 python main.py C:\Windows\System32\ s wp (In Windows)
 
 python main.py 'C:\Windows\System32\' 'p' 'wp' (In Linux)
